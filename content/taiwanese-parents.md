@@ -61,10 +61,12 @@ reside in Taiwan for:
 * five years, for more than 183 days a year
 prior to being able to apply for Household Registration.
 
-Unusually, you must provide a reason for applying for a TARC.
  Instructions are available [in Chinese](https://www.immigration.gov.tw/5382/5385/7244/7250/7281/%E5%B1%85%E7%95%99/36160/),
  but be prepared to provide a criminal background check from your home country and
- a health check (done in Taiwan)
+ a health check (done in Taiwan).
+
+Unusually, you must provide a reason for applying for a TARC. The list of reasons
+ and associated document requirements [are here](https://translate.google.com/translate?sl=zh-CN&tl=en&u=https%3A%2F%2Fwww.immigration.gov.tw%2Fmedia%2F42540%2F%25E7%259B%25B8%25E9%2597%259C%25E8%25AD%2589%25E6%2598%258E%25E6%2596%2587%25E4%25BB%25B6%25E4%25B8%2580%25E8%25A6%25BD%25E8%25A1%25A8.pdf).
 
 You can skip getting a TARC if:
 * you are younger than 20 years old and have parent with active Household Registration

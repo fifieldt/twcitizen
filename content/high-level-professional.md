@@ -6,7 +6,6 @@ description = "If you have spent at least five years in a row living legally in 
 ## Process Overview
 
 The process for Taiwanese citizenship application as a High-Level professional is at first glance, painfully simple:
-
 1. Apply to your favourite (central) government ministry for a letter of recommendation that acknowledges you as a High-Level Professional fit for naturalisation
 2. Apply for naturalisation as a High-Level Professional at your local Household Registration Office.
 
@@ -15,6 +14,8 @@ It is, of course, much more difficult in practice.
 The official instructions are [available in English](https://www.ris.gov.tw/app/en/763).
 
 ## Recommendation Lettter 
+The key difference when compared with preparing a regular application is the Letter of Recommendation
+for Naturalisation of High-Level Professionals (歸化國籍之高級專業人才推薦書).
 The first step to take is to start gathering documents from across your whole career to support
   your application. You will need to construct your application based on the requirements of the
  ministry/agency to which you are applying for recommendation.
@@ -41,7 +42,7 @@ An application will take several months. It follows this basic timeline:
 A key factor in the timing is in the Citizenship Committee in the Ministry of Interior that conducts the
  final assessment of naturalisation for High-Level Professionals. The committee meets once
  every two months, typically around the 25th of the month (February, April, June, August, October, December),
- but can also meet ad-hoc. If you miss a meeting, you can be waiting a significant amount of time
+ but can also meet ad-hoc. If your application misses a meeting, you can be waiting a significant amount of time
  for the next one.
 
 
