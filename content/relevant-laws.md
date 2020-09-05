@@ -23,3 +23,6 @@ https://www.ris.gov.tw/documents/data/en/2/Standards-for-Defining-High-Level-Pro
 
 ## Orders Act
 https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=A0030006
+
+## Immigration Act
+https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?PCode=D0080132
