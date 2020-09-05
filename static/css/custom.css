@@ -2,3 +2,39 @@
  width: 24.99%;
  min-height: 300px;
 }
+
+.descriptive-heading {
+  float: left;
+  width: 100%;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+  clear: both;
+}
+.descriptive-heading h2 { 
+  margin: 0 0 30px 0;
+  font-size: 50px;
+  font-weight: 300; 
+  color: #444;
+  text-transform: uppercase;
+  position: relative;
+  display: block;
+  padding-bottom: 0px;
+  line-height: 1.5; 
+}
+@media screen and (max-width: 768px) {
+  .descriptive-heading h2 {
+    font-size: 30px;
+  }
+}
+.descriptive-heading h3 {
+  font-weight: 300;
+  line-height: 1.5;
+  color: #929292;
+}
+@media screen and (max-width: 768px) {
+  .descriptive-heading h3 {
+    font-size: 24px !important;
+    line-height: 34px;
+  }
+}
+

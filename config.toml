@@ -83,7 +83,7 @@ theme = "hugo-elate-theme"
 
 
   [params.intro.video]
-    enable = true
+    enable = false
     title = "Watch the video"
     icon = "icon-play2"
     url = "https://vimeo.com/channels/staffpicks/93951774"
@@ -161,7 +161,7 @@ theme = "hugo-elate-theme"
 
   # Services section
   [params.services]
-    enable = true
+    enable = false
     title = "Services"
     description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
 
@@ -188,13 +188,13 @@ theme = "hugo-elate-theme"
   [params.about]
     enable = true
     title = "About"
-    description = "This site was created by a volunteer team, in an effort to try and de-mistify the ways that one can apply for Taiwanese citizenship."
+    description = "This site was created by a volunteer team, in an effort to try and demystify the ways that one can apply for Taiwanese citizenship."
 
     [[params.about.item]]
       name = "Tom Fifield"
-      position = "Taiwanese-Australian"
+      position = "Australian-Taiwanese"
       description = "Tom acquired Taiwanese citizenship through naturalisation as a High-Level Professional in the field of Technology."
-      img = "person1.jpg"
+      img = "215_sm.jpg"
       alt = "Tom Fifield"
       social = [
         ["icon-twitter", "https://twitter.com/TomFifield"],
@@ -210,36 +210,29 @@ theme = "hugo-elate-theme"
     background = "full_image_1.jpg"
 
     [[params.counters.item]]
-      description = "Finished projects"
-      icon = "icon-briefcase"
-      from = 0
-      to = 89
-      interval = 50
-      speed = 5000
-
-    [[params.counters.item]]
-      description = "Lines of code"
-      icon = "icon-code"
-      from = 0
-      to = 2343409
-      interval = 50
-      speed = 5000
-
-    [[params.counters.item]]
-      description = "Cups of coffee"
-      icon = "icon-cup"
-      from = 0
-      to = 1302
-      interval = 50
-      speed = 5000
-
-    [[params.counters.item]]
-      description = "Happy clients"
+      description = "Foreign Residents"
       icon = "icon-people"
       from = 0
-      to = 52
-      interval = 50
+      to = 782195
+      interval = 500
       speed = 5000
+
+    [[params.counters.item]]
+      description = "Foreign Professionals"
+      icon = "icon-briefcase"
+      from = 0
+      to = 65820
+      interval = 1000
+      speed = 5000
+
+  [[params.counters.item]]
+      description = "High-Level Professional Naturalisations"
+      icon = "icon-trophy"
+      from = 0
+      to = 156
+      interval = 40
+      speed = 5000
+
 
   # Contact section
   [params.contact]
