@@ -3,6 +3,8 @@ baseURL = "https://citizen.tw/"
 languageCode = "en-us"
 title = "Taiwanese Citizenship"
 theme = "hugo-elate-theme"
+publishDir = "docs"
+
 [params]
   
   custom_css = ["css/custom.css"]
