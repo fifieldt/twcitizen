@@ -7,7 +7,7 @@ description = "If you have Taiwanese Parents, depending on your specific situati
 There is an important conceptual difference in Taiwanese citizenship compared to that of other countries.
  Essentially, Taiwan only has the concept of a "national", and what most of us think of as the rights of
  a citizen are tied with what is known as "Household Registration". Nationals with full residence and
- voting rights are kown as "Nationals with Household Registration".
+ voting rights are known as "Nationals with Household Registration".
 
 There are many Taiwanese nationals living overseas, who may be unaware they are Taiwanese, because they
  do not have the right to live or work in Taiwan without taking some additional steps. These are known as
