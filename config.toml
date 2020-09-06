@@ -1,5 +1,5 @@
 # Page settings
-baseURL = "https://citizen.tw/"
+baseURL = "https://citizenship.tw/"
 languageCode = "en-us"
 title = "Taiwanese Citizenship"
 theme = "hugo-elate-theme"
