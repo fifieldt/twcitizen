@@ -66,7 +66,7 @@ prior to being able to apply for Household Registration.
  a health check (done in Taiwan).
 
 Unusually, you must provide a reason for applying for a TARC. The list of reasons
- and associated document requirements [are here](https://translate.google.com/translate?sl=zh-CN&tl=en&u=https%3A%2F%2Fwww.immigration.gov.tw%2Fmedia%2F42540%2F%25E7%259B%25B8%25E9%2597%259C%25E8%25AD%2589%25E6%2598%258E%25E6%2596%2587%25E4%25BB%25B6%25E4%25B8%2580%25E8%25A6%25BD%25E8%25A1%25A8.pdf).
+ and associated document requirements [are here](https://www.immigration.gov.tw/media/42540/相關證明文件一覽表.pdf).
 
 You can skip getting a TARC if:
 * you are younger than 20 years old and have parent with active Household Registration
