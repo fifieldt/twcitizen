@@ -231,7 +231,7 @@ publishDir = "docs"
       description = "High-Level Professional Naturalisations"
       icon = "icon-trophy"
       from = 0
-      to = 156
+      to = 171
       interval = 40
       speed = 5000
 
