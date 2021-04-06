@@ -54,8 +54,8 @@ For example, if you were born in Los Angeles, USA; then the TECO in Los Angeles 
  birth certificate.
 
 ## About the Taiwan Area Residence Certificate (TARC)
-If you are a National without Household Registration (NWOHR), you must apply for a TARC and 
-reside in Taiwan for:
+If you are a National without Household Registration (NWOHR) seeking full citizenship, you must apply for a TARC and
+ reside in Taiwan for:
 * one year, without departure
 * two years, for more than 270 days a year
 * five years, for more than 183 days a year

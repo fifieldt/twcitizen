@@ -108,3 +108,16 @@ You must apply for a criminal record check in your existing country of citizensh
 
 Once your criminal record is issued by your existing country of citizenship, you cannot leave
  Taiwan, otherwise it will be deemed invalid.
+
+## Health Check
+In most cases, you must pass a health check in Taiwan. Allow for up to two weeks to
+ receive the results.
+
+You can ask your local Household
+ Registration Office for their recommended hospital. A specific form is required to be
+ filled out and covers up to five examinations depending on your passport country.
+ Large hospitals in city centers are likely to have a dedicated health check area that
+ is accustomed to performing the requisite tests for residence.
+
+The CDC website has [details of the required tests](https://www.cdc.gov.tw/En/Category/ListContent/C4w0xUaCBCKzdd6BxDGWcA?uaid=y9n9sbUrcg_Pj6lGlPVDCA).
+
