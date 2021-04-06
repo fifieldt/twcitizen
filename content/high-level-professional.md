@@ -114,10 +114,13 @@ In most cases, you must pass a health check in Taiwan. Allow for up to two weeks
  receive the results.
 
 You can ask your local Household
- Registration Office for their recommended hospital. A specific form is required to be
- filled out and covers up to five examinations depending on your passport country.
- Large hospitals in city centers are likely to have a dedicated health check area that
- is accustomed to performing the requisite tests for residence.
+ Registration Office for their recommended hospital, or check the 
+[list of designated hospitals](https://www.cdc.gov.tw/En/Category/ListContent/C4w0xUaCBCKzdd6BxDGWcA?uaid=LgG4_1kPzR7S1lAA634XJg).
 
-The CDC website has [details of the required tests](https://www.cdc.gov.tw/En/Category/ListContent/C4w0xUaCBCKzdd6BxDGWcA?uaid=y9n9sbUrcg_Pj6lGlPVDCA).
+Large hospitals in city centers are likely to have a dedicated health check area that
+ is accustomed to performing the requisite tests for residence. Many hospitals only
+ offer the service at specific times or require appointments, so calling ahead to check
+ is recommended.
+
+A specific form is required to be  filled out and covers up to five examinations depending on your passport country. The CDC website has [details of the required tests](https://www.cdc.gov.tw/En/Category/ListContent/C4w0xUaCBCKzdd6BxDGWcA?uaid=y9n9sbUrcg_Pj6lGlPVDCA).
 
