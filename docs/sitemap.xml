@@ -1,23 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
     <loc>https://citizenship.tw/categories/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://citizenship.tw/terms/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://citizenship.tw/high-level-professional/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://citizenship.tw/outstanding-contributions/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://citizenship.tw/regular-application/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://citizenship.tw/relevant-laws/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://citizenship.tw/tags/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://citizenship.tw/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://citizenship.tw/taiwanese-parents/</loc>
   </url>
+  
 </urlset>
