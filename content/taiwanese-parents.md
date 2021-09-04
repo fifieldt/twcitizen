@@ -72,3 +72,36 @@ You can skip getting a TARC if:
 * you are younger than 20 years old and have parent with active Household Registration
 * you were born in Taiwan between February 10th 1989 and February 9th 1999 and your mother had Household Registration (even if your father was not Taiwanese)
 * you are descended from a Taiwanese soldier stranded in Thailand or Burma after the civil war (AF391)
+
+## Common Methods for NWOHRs to get a TARC
+There are around twenty [different reasons](https://www.immigration.gov.tw/media/42540/%E7%9B%B8%E9%97%9C%E8%AD%89%E6%98%8E%E6%96%87%E4%BB%B6%E4%B8%80%E8%A6%BD%E8%A1%A8.pdf)
+ a National without Household Registration
+may apply for a Taiwan Area Residence Certificate, so they can stay in Taiwan 
+for the required number of days and subsequently become a full citizen. The most
+common rely on submitting copies of blood relative's Household Registration documents.
+
+AF351-AF354 are used where you are related to someone who currently has active household
+registration in Taiwan. You'll just need the national ID of your relative and their
+original (and a copy) 戶口名簿 or a less-than-3-month-old 戶籍謄本 and other documents
+to prove your relationship. AF351 and AF352 are where it's your spouse and you've been married less than/more than 4 years and don't have/have children. AF353 is where you have relatives (including your parents, but also some more distant
+blood relatives may count)
+ who have an active household registration in Taiwan. AF354 is where
+you have brothers, sisters or your spouse's parents with household registration.
+
+AF384 is for NWOHRs over 20 years old who were born overseas, but whose parents have or 
+had household registration in Taiwan. Usually used when the household registration has
+lapsed and/or parents are deceased, otherwise AF353 may be more straightforward.
+You'll need a certified Chinese translation of your
+birth certificate, a copy of your parents marriage registration, as well as copies of your
+parent's Taiwan ID cards and the original 戶口名簿 and a copy. If your parents weren't
+married when you were born, there are workarounds but it's best to ask your local embassy.
+
+When applying under AF384 you may be told that this is only for applicants whose parents
+are deceased, or be told that your parents should simply re-activate their household
+registration if alive (i.e. to apply under AF353). However, this is not technically
+required and with significant effort can be worked around with techniques such as an
+affidavit that your parents are unable to travel.
+
+Other common methods to get a TARC are - investing 10 million NT (AF358),
+or getting a job in Taiwan that sponsors your work permit (AF370).
+
