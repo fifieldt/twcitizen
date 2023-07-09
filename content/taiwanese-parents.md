@@ -23,6 +23,13 @@ If you have Taiwanese parents and want to acquire Taiwanese citizenship, the fir
 
 There are many nuances here, including which of your parents was Taiwanese and when and where you were born.
 
+---
+**NOTE**
+
+On June 28, 2023, the law that underpins citizenship for those with Taiwanese parents was amended. The changes are yet to take effect, but overall it will be easier to acquire citizenship in the near future. Information here will be updated soon.
+
+---
+
 ## Process overview
 Generally, there are four steps involved in acquiring Taiwanese citizenship for those with Taiwanese parents:
 1. Applying for a Taiwan (NWOHR) passport from your local Taiwanese embassy
