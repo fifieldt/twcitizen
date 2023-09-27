@@ -69,7 +69,7 @@ publishDir = "docs"
 
   [[params.intro.item]]
     title = "High-Level Professional"
-    description = "Requires five years of residence and proof you are a senior professional."
+    description = "Requires proof you are a senior professional and at least two years of residence."
     url = "/high-level-professional/"
     button = "How to Qualify"
     icon = "icon-briefcase"
