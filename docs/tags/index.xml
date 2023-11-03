@@ -5,6 +5,7 @@
     <link>https://citizenship.tw/tags/</link>
     <description>Recent content in Tags on Taiwanese Citizenship</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://citizenship.tw/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="https://citizenship.tw/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
