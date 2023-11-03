@@ -48,8 +48,7 @@ A key factor in the timing is in the Citizenship Committee in the Ministry of In
 
 ## Residence Requirement
 In general, you must be resident in Taiwan for more than 183 days a year for at least 
- two continuous years. You may otherwise meet the requirement by being continuously legally resident
- for five years (three if you are married to a Taiwanese citizen).
+ five continuous years, or three if you are married to a Taiwanese citizen.
  You do not need to hold permanent residence (APRC), but this does waive certain
  requirements, as does spending more than 10 consecutive years resident in Taiwan.
 
