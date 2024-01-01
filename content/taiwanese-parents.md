@@ -26,7 +26,7 @@ There are many nuances here, including which of your parents was Taiwanese and w
 ---
 **NOTE**
 
-On June 28, 2023, the law that underpins citizenship for those with Taiwanese parents was amended. The changes are yet to take effect, but overall it will be easier to acquire citizenship in the near future. Information here will be updated soon.
+On January 1, 2024, the law that underpins citizenship for those with Taiwanese parents was amended. It is now much be easier to acquire citizenship than in the past! Be aware of outdated information.
 
 ---
 
@@ -47,6 +47,12 @@ If you are under 20 years old, and your parents have active Household Registrati
 * [Instructions in English](https://www.immigration.gov.tw/5475/5478/141465/141808/141948/)
 * [Instructions in Chinese](https://www.immigration.gov.tw/5385/7244/7250/7281/%E5%AE%9A%E5%B1%85/36430/)
 
+As of January 1, 2024, if you were adopted by Taiwanese citizens you may also apply for
+citizenship. 
+
+As a child, if your parents have an active household registration, you can even skip the step of
+applying for a NWOHR passport overseas and enter Taiwan on your foreign passport. You
+will still be allowed to perform Household Registration.
 
 ## Applying for a Taiwan (NWOHR) passport
 You can apply for a Taiwan passport is done at your local Taiwanese diplomatic mission.
@@ -60,10 +66,21 @@ Taiwanese diplomatic mission responsible for the area where the document was pro
 For example, if you were born in Los Angeles, USA; then the TECO in Los Angeles needs to certify your
  birth certificate.
 
+## Direct to Household Registration (New in 2024)
+As of January 1, 2024, if you meet either of the following conditions you can simply
+enter Taiwan on your NWOHR Passport and become a full citizen.
+
+1. If you were born in Taiwan to Taiwanese parents with Household Registration but didn't get registered before you left the country
+2. If you were born overseas and at least one of your parents has Household Registration.
+
+You don't need to apply for a Taiwan Area Residence Certificate (TARC) or stay in
+Taiwan for any length of time. Just visit your Household Registration Office for immediate
+registration.
+
 ## About the Taiwan Area Residence Certificate (TARC)
 If you are a National without Household Registration (NWOHR) seeking full citizenship, you must apply for a TARC and
  reside in Taiwan for:
-* one year, without departure
+* one year, for at least 335 days
 * two years, for more than 270 days a year
 * five years, for more than 183 days a year
 prior to being able to apply for Household Registration.
@@ -76,8 +93,8 @@ Unusually, you must provide a reason for applying for a TARC. The list of reason
  and associated document requirements [are here](https://www.immigration.gov.tw/media/42540/相關證明文件一覽表.pdf).
 
 You can skip getting a TARC if:
-* you are younger than 20 years old and have parent with active Household Registration
-* you were born in Taiwan between February 10th 1989 and February 9th 1999 and your mother had Household Registration (even if your father was not Taiwanese)
+* you have a parent with an active Household Registration
+* you were born in Taiwan to parents with Household Registration, but weren't registered before leaving the country
 * you are descended from a Taiwanese soldier stranded in Thailand or Burma after the civil war (AF391)
 
 ## Common Methods for NWOHRs to get a TARC
