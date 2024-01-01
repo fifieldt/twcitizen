@@ -215,7 +215,7 @@ publishDir = "docs"
       description = "Foreign Residents"
       icon = "icon-people"
       from = 0
-      to = 782195
+      to = 864277
       interval = 500
       speed = 5000
 
@@ -231,7 +231,7 @@ publishDir = "docs"
       description = "High-Level Professional Naturalisations"
       icon = "icon-trophy"
       from = 0
-      to = 176
+      to = 253
       interval = 40
       speed = 5000
 
