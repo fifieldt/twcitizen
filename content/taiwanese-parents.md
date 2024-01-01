@@ -56,7 +56,7 @@ will still be allowed to perform Household Registration.
 
 ## Applying for a Taiwan (NWOHR) passport
 You can apply for a Taiwan passport is done at your local Taiwanese diplomatic mission.
-In addition to your passport photos, tou will likely need some of the following documents:
+In addition to your passport photos, you will likely need some of the following documents:
 * Your birth certificate
 * You parent's marriage certificate
 * Your parent's household registration, ID card, passport and/or birth certificate
