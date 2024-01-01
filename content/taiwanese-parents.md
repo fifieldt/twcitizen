@@ -41,7 +41,7 @@ What documents you will need at each step, and whether you need to live in Taiwa
  getting your Taiwanese ID will depend on your age and the status of your parents.
 
 ## Information for Minors
-If you are under 20 years old, and your parents have active Household Registrations,
+If you are under 18 years old, and your parents have active Household Registrations,
  you may follow a simpler process. You will not have to apply for a
  Taiwan Area Residence Certificate (TARC) and may proceed directly to Household Registration.
 * [Instructions in English](https://www.immigration.gov.tw/5475/5478/141465/141808/141948/)
