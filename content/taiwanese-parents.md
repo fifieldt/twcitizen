@@ -73,9 +73,9 @@ enter Taiwan on your NWOHR Passport and become a full citizen.
 1. If you were born in Taiwan to Taiwanese parents with Household Registration but didn't get registered before you left the country
 2. If you were born overseas and at least one of your parents has Household Registration.
 
-You don't need to apply for a Taiwan Area Residence Certificate (TARC) or stay in
-Taiwan for any length of time. Just visit your Household Registration Office for immediate
-registration.
+You only need to hold a Taiwan Area Residence Certificate (TARC) temporarily, and be in Taiwan while your
+ application is processed. Visit NIA to apply for your TARC then take it to your Household Registration Office for immediate
+registration. It'll take about 10 days to get the national ID and 10 days more for your full Taiwan passport.
 
 ## About the Taiwan Area Residence Certificate (TARC)
 If you are a National without Household Registration (NWOHR) seeking full citizenship, you must apply for a TARC and
