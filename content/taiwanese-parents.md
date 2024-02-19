@@ -76,6 +76,7 @@ enter Taiwan on your NWOHR Passport and become a full citizen.
 You only need to hold a Taiwan Area Residence Certificate (TARC) temporarily, and be in Taiwan while your
  application is processed. Visit NIA to apply for your TARC then take it to your Household Registration Office for immediate
 registration. It'll take about 10 days to get the national ID and 10 days more for your full Taiwan passport.
+You must use your Taiwan passport to exit the country.
 
 ## About the Taiwan Area Residence Certificate (TARC)
 If you are a National without Household Registration (NWOHR) seeking full citizenship, you must apply for a TARC and
