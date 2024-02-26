@@ -86,7 +86,7 @@ If you are a National without Household Registration (NWOHR) seeking full citize
 * five years, for more than 183 days a year
 prior to being able to apply for Household Registration.
 
- Instructions are available [in Chinese](https://www.immigration.gov.tw/5382/5385/7244/7250/7281/%E5%B1%85%E7%95%99/36160/),
+ Instructions are available [in Chinese](https://www.immigration.gov.tw/5385/7244/7250/7281/%E5%AE%9A%E5%B1%85/36430),
  but be prepared to provide a criminal background check from your home country and
  a health check (done in Taiwan).
 
