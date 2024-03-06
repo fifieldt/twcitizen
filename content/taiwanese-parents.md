@@ -55,7 +55,7 @@ applying for a NWOHR passport overseas and enter Taiwan on your foreign passport
 will still be allowed to perform Household Registration.
 
 ## Applying for a Taiwan (NWOHR) passport
-You can apply for a Taiwan passport is done at your local Taiwanese diplomatic mission.
+You can apply for a Taiwan passport at your local Taiwanese diplomatic mission.
 In addition to your passport photos, you will likely need some of the following documents:
 * Your birth certificate
 * You parent's marriage certificate
@@ -91,7 +91,7 @@ prior to being able to apply for Household Registration.
  a health check (done in Taiwan).
 
 Unusually, you must provide a reason for applying for a TARC. The list of reasons
- and associated document requirements [are here](https://www.immigration.gov.tw/media/42540/相關證明文件一覽表.pdf).
+ and associated document requirements [are here](https://law.immigration.gov.tw/FileDownload.jsp?id=2c9e748d8df73a86018df82a39e5008c).
 
 You can skip getting a TARC if:
 * you have a parent with an active Household Registration
