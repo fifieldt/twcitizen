@@ -1,6 +1,6 @@
 +++
 title = "High-Level Professional"
-description = "If you have spent at least five years in a row living legally in Taiwan (or three if you are married to a Taiwanese citizen), and have studied a bit of Chinese, you can apply for Taiwanese citizenship. You may become a full citizen  immediately after application, without renouncing your existing citizenships."
+description = "If you have spent two-to-five years in a row living legally in Taiwan, and have studied a bit of Chinese, you can apply for Taiwanese citizenship. You may become a full citizen immediately after application, without renouncing your existing citizenships."
 +++
 
 ## Process Overview
@@ -47,10 +47,13 @@ A key factor in the timing is in the Citizenship Committee in the Ministry of In
 
 
 ## Residence Requirement
-In general, you must be resident in Taiwan for more than 183 days a year for at least 
- five continuous years, or three if you are married to a Taiwanese citizen.
- You do not need to hold permanent residence (APRC), but this does waive certain
- requirements, as does spending more than 10 consecutive years resident in Taiwan.
+You must have been resident in Taiwan for either:
+* more than 183 days a year for at least two continuous years (new in 2024), or
+* at least three years if you are married to a Taiwanese citizen, or
+* at least five continuous years.
+
+You do not need to hold permanent residence (APRC), but this does waive certain
+requirements, as does spending more than 10 consecutive years resident in Taiwan.
 
 It is crucial that:
 * You are legally resident in Taiwan, with an ARC, for this time
