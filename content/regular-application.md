@@ -18,7 +18,7 @@ Once approved, you will receive a *Certificate of Naturalisation*. You are Taiwa
  this point, but do not yet have residency rights or 'citizen' status.
  You will first apply for a Taiwan Area Residence Certificate (TARC) that functions similar
  to an ARC and then live in Taiwan for an additional:
-* one year, without departure
+* one year, for more than 335 days in that year
 * two years, for more than 270 days a year
 * five years, for more than 183 days a year
 
