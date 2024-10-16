@@ -5,7 +5,7 @@ description = "If you have Taiwanese Parents, depending on your specific situati
 
 ## Introduction
 Taiwanese nationality is based on the principle of *jus sanguinis* - passed on by blood.
-If your parents are Taiwanese nationals it is very likely you are too, automatically.
+If one or both of your parents are Taiwanese nationals it is very likely you are too, automatically.
 
 However, there is an important conceptual difference in Taiwanese citizenship compared to that of other countries.
  Essentially, Taiwan only has the concept of a "national", and what most of us think of as the rights of
@@ -57,11 +57,12 @@ will still be allowed to perform Household Registration.
 ## Applying for a Taiwan (NWOHR) passport
 You can apply for a Taiwan passport at your local Taiwanese diplomatic mission.
 In addition to your passport photos, you will likely need some of the following documents:
+* Your home country passport
 * Your birth certificate
 * You parent's marriage certificate
 * Your parent's household registration, ID card, passport and/or birth certificate
 
-Any of these documents from a country other than Taiwan need to be certified by the
+Any of these documents from a country other than Taiwan need to be translated to Chinese and certified by the
 Taiwanese diplomatic mission responsible for the area where the document was produced.
 For example, if you were born in Los Angeles, USA; then the TECO in Los Angeles needs to certify your
  birth certificate.
@@ -86,12 +87,12 @@ If you are a National without Household Registration (NWOHR) seeking full citize
 * five years, for more than 183 days a year
 prior to being able to apply for Household Registration.
 
- Instructions are available [in Chinese](https://www.immigration.gov.tw/5385/7244/7250/7281/%E5%AE%9A%E5%B1%85/36430),
- but be prepared to provide a criminal background check from your home country and
+ Instructions are available [in Chinese](https://www.immigration.gov.tw/5385/7244/7250/7281/%E5%AE%9A%E5%B1%85/36430) and [in English](https://www.immigration.gov.tw/5475/5478/141465/141808/141954/cp_news),
+ but be prepared to provide a translated and certified criminal background check from your home country and
  a health check (done in Taiwan).
 
 Unusually, you must provide a reason for applying for a TARC. The list of reasons
- and associated document requirements [are here](https://law.immigration.gov.tw/FileDownload.jsp?id=2c9e748d8df73a86018df82a39e5008c).
+ and associated document requirements [are here](https://www.immigration.gov.tw/media/103476/0303-guidelines-for-the-application-for-residence-extension-of-residence-and-change-of-residence-reasons-for-nationals-without-registered-permanent-residence-in-the-taiwan-area.pdf#page=8).
 
 You can skip getting a TARC if:
 * you have a parent with an active Household Registration
@@ -99,7 +100,7 @@ You can skip getting a TARC if:
 * you are descended from a Taiwanese soldier stranded in Thailand or Burma after the civil war (AF391)
 
 ## Common Methods for NWOHRs to get a TARC
-There are around twenty [different reasons](https://www.immigration.gov.tw/media/42540/%E7%9B%B8%E9%97%9C%E8%AD%89%E6%98%8E%E6%96%87%E4%BB%B6%E4%B8%80%E8%A6%BD%E8%A1%A8.pdf)
+There are around twenty [different reasons](https://www.immigration.gov.tw/media/103476/0303-guidelines-for-the-application-for-residence-extension-of-residence-and-change-of-residence-reasons-for-nationals-without-registered-permanent-residence-in-the-taiwan-area.pdf#page=8)
  a National without Household Registration
 may apply for a Taiwan Area Residence Certificate, so they can stay in Taiwan 
 for the required number of days and subsequently become a full citizen. The most
@@ -108,8 +109,7 @@ common rely on submitting copies of blood relative's Household Registration docu
 AF351-AF354 are used where you are related to someone who currently has active household
 registration in Taiwan. You'll just need the national ID of your relative and their
 original (and a copy) 戶口名簿 or a less-than-3-month-old 戶籍謄本 and other documents
-to prove your relationship. AF351 and AF352 are where it's your spouse and you've been married less than/more than 4 years and don't have/have children. AF353 is where you have relatives (including your parents, but also some more distant
-blood relatives may count)
+to prove your relationship. AF351 and AF352 are where it's your spouse and you've been married less than/more than 4 years and don't have/have children. AF353 is where you have lineal relatives (i.e. parent, grandparent or great-grandparent)
  who have an active household registration in Taiwan. AF354 is where
 you have brothers, sisters or your spouse's parents with household registration.
 
