@@ -7,7 +7,7 @@ description = "If you have spent at least five years in a row living legally in 
 Application for citizenship is submitted at your local Household Registration Office.
 You will first need to meet the residence requirement, prove your language ability,
 clean criminal record and proof of funds. With this you will be able to initiate
-the citizenship applicaiton process and if successful will be issued a 
+the citizenship application process and if successful will be issued a 
 *Certificate of R.O.C. Naturalization Candidature*.
 
 You then have one year to renounce your original citizenship and provide certified and
@@ -102,3 +102,14 @@ Large hospitals in city centers are likely to have a dedicated health check area
  is recommended.
 
 A specific form is required to be  filled out and covers up to five examinations depending on your passport country. The CDC website has [details of the required tests](https://www.cdc.gov.tw/En/Category/ListContent/C4w0xUaCBCKzdd6BxDGWcA?uaid=y9n9sbUrcg_Pj6lGlPVDCA).
+
+## Notes on Renunciation
+For most people, the requirement to renounce their existing citizenship is a big challenge.
+Aside from the mere loss of nationality, renunciation is an uncommon process.
+It can be difficult to find out how to do it, require high fees, or get 'stuck' in bureacratic limbo.
+There are, however, a few countries whose citizens have an easier time:
+
+* Japan - you are not required to renounce your citizenship, and can obtain a "Certificate of Not Approving the Renunciation of Citizenship"(国籍喪失届け不受理証明書) from the Legal Affairs Bureau where your 'koseki' is held (日本の本籍地の戸籍窓口). This certificate must be translated into Chinese, certified by the closest Taiwan diplomatic mission in Japan (i.e. TECRO), and certified by BOCA in Taiwan.
+* Germany - as of 2024, Germany does not consider "R.O.C. Naturalization Candidature", or "National without Household Registration" (NWOHR) status as citizenship. To avoid statelessness, German authorities will therefore refuse your application for renunciation. This response should be able to be used to prove renunciation is impossible and allow you to continue with the process
+* Australia - Australian law has special treatment for those who renounced to "acquire or retain the citizenship of another country". You may [apply to resume your Australian citizenship](https://immi.homeaffairs.gov.au/citizenship/become-a-citizen/become-citizen-again#Eligibility) immediately after obtaining your renunciation certificate.
+* Philippines - Filipino who "lost their citizenship by foreign naturalization may [apply to re-acquire](https://melbournepcg.org/?page_id=1062) ... Philippine citizenship (Dual Citizenship) under Republic Act 9225, or the Citizenship Retention and Reacquisition Act of 2003." 
