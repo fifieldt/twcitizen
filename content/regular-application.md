@@ -66,7 +66,7 @@ The alternative is to study a certain number of hours in a government recognised
 If you already have Permanent Residence (APRC) in Taiwan, you are exempt from proving your personal
  finances. For everyone else, you must gather documents such as tax records, pay slips and bank
  statements that show you have one of:
-* A salary above twice the minimum wage (i.e. >NT$47,600 as of 2020)
+* A salary above twice the minimum wage (i.e. >NT$57,180 as of 2025)
 * Property or funds worth more than NT$5 million
 * A Taiwan-recognised professional/technical skill certificate or license
 * Proof you are employed in the high-tech industry
